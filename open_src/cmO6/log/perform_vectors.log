@@ -1,0 +1,2 @@
+{'precision': 1.0, 'sram': 60, 'hash_dist_unit': 7, 'salu': 7, 'recall': 1.0, 'map_ram': 20}
+{'precision': 1.0, 'sram': 36, 'hash_dist_unit': 3, 'salu': 3, 'recall': 1.0, 'map_ram': 23}

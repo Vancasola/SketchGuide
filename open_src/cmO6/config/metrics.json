@@ -1,0 +1,8 @@
+{
+    "recall": 1.0,
+    "precision": 1.0,
+    "hash_dist_unit":1.0,
+    "sram":1.0,
+    "map_ram":1.0,
+    "salu":1.0
+}

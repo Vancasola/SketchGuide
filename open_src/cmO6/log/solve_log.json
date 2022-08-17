@@ -1,0 +1,2 @@
+{"params": {"hash_cnt": 5.321946960652949, "reg_size": 6548.976810312576, "exact_tbl_size": 27339.281748112648, "hash_tbl_size": 23.493838032436972}, "datetime": {"datetime": "2022-08-16 02:29:09", "delta": 0.0, "elapsed": 0.0}, "target": -0.5056497175141244}
+{"params": {"hash_cnt": 1.9711656052761772, "reg_size": 15782.265600344288, "exact_tbl_size": 521.8049640796119, "hash_tbl_size": 46493.8591188183}, "datetime": {"datetime": "2022-08-16 02:29:39", "delta": 30.236097, "elapsed": 30.236097}, "target": 0.6101694915254237}

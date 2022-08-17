@@ -1,0 +1,36 @@
+{
+    "params": {
+        "hash_cnt": {
+            "start": 1,
+            "end": 7
+        },
+        "reg_size": {
+            "start": 512,
+            "end": 20480
+        },
+        "exact_tbl_size": {
+            "start": 16,
+            "end": 65536
+        },
+        "hash_tbl_size": {
+            "start": 16,
+            "end": 65536
+        }
+    },
+    "metrics": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "salu": -1.0,
+        "map_ram": -1.0,
+        "hash_dist_unit": -1.0,
+        "sram": -1.0
+    },
+    "bounds":{
+	 "recall": 0.8,
+	 "precision": 0.8,
+  	 "salu": 6,
+	 "map_ram": 15,
+	 "hash_dist_unit": 6,
+	 "sram": 40
+    }
+}

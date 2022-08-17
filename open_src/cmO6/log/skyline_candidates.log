@@ -1,0 +1,2 @@
+{'target': 0.6101694915254237, 'params': {'reg_size': 15783, 'hash_tbl_size': 46494, 'exact_tbl_size': 522, 'hash_cnt': 2}, 'metrics': {'sram': 36, 'recall': 1.0, 'hash_dist_unit': 3, 'map_ram': 23, 'precision': 1.0, 'salu': 3}}
+{'target': -0.5056497175141244, 'params': {'reg_size': 6549, 'hash_tbl_size': 24, 'exact_tbl_size': 27340, 'hash_cnt': 6}, 'metrics': {'sram': 60, 'recall': 1.0, 'hash_dist_unit': 7, 'map_ram': 20, 'precision': 1.0, 'salu': 7}}
